@@ -475,21 +475,24 @@
                     <div class="contact-child child1">
 
                         <p>
-                            <i class="fas fa-map-marker-alt"></i>Address
+                            <i class="fas fa-map-marker-alt"></i> Address
                             <br />
-                            <span>110  Ash Lane,
+                            <span>110  Asha Lane,
                             <br />
-                            YARROW FEUS, TD7 0XL</span>
+                            Mumbai, Maharastra,
+                                <br />
+                                India
+                            </span>
                         </p>
                         <p>
-                            <i class="fas fa-phone-alt"></i>Let's talk
+                            <i class="fas fa-phone-alt"></i> Let's talk
                             <br />
-                            <span>070 8826 9269</span>
+                            <span>+91 1234567890</span>
                         </p>
                         <p>
-                            <i class="far fa-envelope"></i>General Support
+                            <i class="far fa-envelope"></i> General Support
                             <br />
-                            <span>andreea@andreeabunget.co.uk</span>
+                            <span>https://github.com/AherRahul</span>
                         </p>
 
                     </div>

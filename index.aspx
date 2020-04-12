@@ -175,8 +175,8 @@
       <div class="container">
 
         <div class="section-title">
-          <span>Contact Me</span>
-          <h2>Contact Me</h2>
+          <span>Order Cake</span>
+          <h2>Order Cake</h2>
         </div>
 
         

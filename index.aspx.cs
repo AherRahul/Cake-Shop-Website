@@ -24,9 +24,9 @@ namespace CakeShopApplication
             try
             {
                 // credentials
-                var from = "YourEmailAddress@gmail.com";
-                var to = "YourEmailAddress@gmail.com";
-                const string Password = "YourGmailPassword";
+                var from = "thecakeshop369@gmail.com";
+                var to = "thecakeshop369@gmail.com";
+                const string Password = "C@keshop123";
 
                 // email subject
                 string mail_subject = txt_subject.Text.ToString();
@@ -82,7 +82,7 @@ namespace CakeShopApplication
             string UserName = txt_first_name.Text + " " + txt_last_name.Text;
             string subject2 = txt_subject.Text;
 
-            MailMessage mailMessage = new MailMessage("YourEmailAddress9@gmail.com", ToEmail);
+            MailMessage mailMessage = new MailMessage("thecakeshop369@gmail.com", ToEmail);
 
 
 
@@ -108,8 +108,8 @@ namespace CakeShopApplication
 
             smtpClient.Credentials = new System.Net.NetworkCredential()
             {
-                UserName = "YourEmailAddress@gmail.com",
-                Password = "YourGamilPassword"
+                UserName = "thecakeshop369@gmail.com",
+                Password = "C@keshop123"
             };
 
 
